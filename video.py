@@ -6,7 +6,7 @@ import imutils
 hog = cv2.HOGDescriptor()
 hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 
-cap = cv2.VideoCapture('video0.mp4')
+cap = cv2.VideoCapture('video1.mp4')
 
 while cap.isOpened():
     # Reading the video stream
