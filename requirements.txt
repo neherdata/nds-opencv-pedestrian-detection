@@ -52,7 +52,7 @@ nbclient==0.8.0
 nbconvert==7.17.2
 nbformat==5.9.2
 nest-asyncio==1.5.7
-notebook==7.0.3
+notebook==7.6.3
 notebook_shim==0.2.3
 numpy==1.25.2
 opencv-python==4.8.0.76
